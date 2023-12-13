@@ -69,7 +69,7 @@
   }
   
 .menu li:hover {
-    border-color: rgba(21,180,40,255);
+    border-color: black;
   }
 .menu {
   position: fixed;
@@ -85,7 +85,7 @@
     width: 100px;
     height: 30px;
     color: white;
-    background-color: rgba(28,73,62,255);
+    background-color: rgba(9,167,32,255);
     display: flex;
     flex-direction: column;
     justify-content: center;
